@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href='https://play.google.com/store/apps/details?id=dev.g1joshi.placement_preparation&utm_source=github&utm_campaign=badge&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/G1Joshi/Assets/main/google-play-badge.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=dev.https://github.com/sachinmahajan817/Placement-Preparation-App><img alt='Get it on Google Play' src='https://github.com/sachinmahajan817/Placement-Preparation-App/SACHIN/Assets/main/google-play-badge.png'/></a>
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-![Placement Preparation App](https://raw.githubusercontent.com/G1Joshi/Assets/main/Placement%20Preparation%20App/pp1.jpg)
-![Placement Preparation App](https://raw.githubusercontent.com/G1Joshi/Assets/main/Placement%20Preparation%20App/pp2.jpg)
-![Placement Preparation App](https://raw.githubusercontent.com/G1Joshi/Assets/main/Placement%20Preparation%20App/pp3.jpg)
+![Placement Preparation App](https://github.com/sachinmahajan817/Placement-Preparation-App)
+![Placement Preparation App](https://github.com/sachinmahajan817/Placement-Preparation-App)
+![Placement Preparation App](https://github.com/sachinmahajan817/Placement-Preparation-App)
 
 </div>
 
@@ -43,6 +43,6 @@
 
 <div align="center">
 
-< /> with 🤍 by G1
+< /> with 🤍 by SACHIN
 
 </div>
