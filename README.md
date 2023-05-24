@@ -1,15 +1,9 @@
 # Placement Preparation
-
 ## Prepare Yourself For Upcoming On-Campus And Off-Campus Placements.
-
 <div align="center">
-
 <a href='https://play.google.com/store/apps/details?id=dev.g1joshi.placement_preparation&utm_source=github&utm_campaign=badge&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://raw.githubusercontent.com/G1Joshi/Assets/main/google-play-badge.png'/></a>
-
 </div>
-
 ---
-
 ### Preparation for Placements with
 
 - Aptitude
